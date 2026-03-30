@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: It takes more time to sort reversed numbers in comparison to both other sorts.
+
+sort2 uses: Merge Sort
+
+How do you know?: It takes more time to sort reversed numbers in comparison to both other sorts.
+
+sort3 uses: Selection Sort
+
+How do you know?: If it does not have the best or the worst timing in reversed numbers, it's Selection Sort.
